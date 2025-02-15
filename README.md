@@ -1,22 +1,18 @@
+## Hi there 👋
+
 <div>
   <p>I'm Bruno, an Information Systems student at UFPB. Enthusiast in data analysis and front-end development.</p>
 </div>
-
-<hr>
 
 <h2>About me</h2>
 <div>
   <p>Working as a researcher at LabGov</p>
 </div>
 
-<hr>
-
 <h2>Techs and Tools</h2>
   <div align="center">
      <img src="https://skillicons.dev/icons?i=js,java,python,anaconda,html,css,react,git,mysql">
   </div>
-
-<hr>
 
 <h2>Contacts</h2>
 <div align="center">
