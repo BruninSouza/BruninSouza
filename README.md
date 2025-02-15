@@ -12,14 +12,14 @@
 <h2>About me</h2>
 <div>
   <p>💻 Working as a researcher at LabGov</p>
-  <p>📚 Studying information systems at UFPB</p>
+  <p>📚 Studying Information Systems at UFPB</p>
 </div>
 
 <br>
 
 <h2>Techs and Tools</h2>
   <div align="center">
-     <img src="https://skillicons.dev/icons?i=js,java,python,anaconda,html,css,react,git,mysql">
+     <img src="https://skillicons.dev/icons?i=java,python,anaconda,html,css,js,react,git,mysql">
   </div>
 
   <br>
