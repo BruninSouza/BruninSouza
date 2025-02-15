@@ -1,13 +1,8 @@
-
 <h1>Hi there 👋</h1>
-
-<br>
 
 <div>
   <p>I'm Bruno, a data analyst and software developer. Enthusiast about cybersecurity and AI. Working with databases and data analysis.</p>
 </div>
-
-<br>
 
 <h2>About me</h2>
 <div>
@@ -15,14 +10,10 @@
   <p>📚 Studying Information Systems at UFPB</p>
 </div>
 
-<br>
-
 <h2>Techs and Tools</h2>
   <div align="center">
      <img src="https://skillicons.dev/icons?i=java,python,anaconda,html,css,js,react,git,mysql">
   </div>
-
-  <br>
 
 <h2>Contacts</h2>
 <div align="center">
