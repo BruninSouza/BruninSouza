@@ -1,7 +1,7 @@
 
 <h2>Tech and Tools</h2>
   <div align="center">
-     <img src="https://skillicons.dev/icons?i=js,java,python,html,css,react,git,sql,power bi">
+     <img src="https://skillicons.dev/icons?i=js,java,python,anaconda,html,css,react,git,mysql">
   </div>
 
 <hr>
