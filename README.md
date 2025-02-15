@@ -1,11 +1,24 @@
+<div>
+  <p>I'm Bruno, an Information Systems student at UFPB. Enthusiast in data analysis and front-end development.</p>
+</div>
 
-<h2>Tech and Tools</h2>
+<hr>
+
+<h2>About me</h2>
+<div>
+  <p>Working as a researcher at LabGov</p>
+</div>
+
+<hr>
+
+<h2>Techs and Tools</h2>
   <div align="center">
      <img src="https://skillicons.dev/icons?i=js,java,python,anaconda,html,css,react,git,mysql">
   </div>
 
 <hr>
 
+<h2>Contacts</h2>
 <div align="center">
   <a href="https://www.instagram.com/brun_souz4">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
