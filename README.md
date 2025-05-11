@@ -1,21 +1,17 @@
-<h1>Hi there 👋</h1>
+<h1>Olá, eu sou Bruno Souza 👋</h1>
 
-<div>
-  <p>I'm Bruno, a data analyst and software developer. Enthusiast about cybersecurity and AI. Working with databases and data analysis.</p>
-</div>
+## 💻 Sobre Mim
+- 🎓 Estudante de **Sistemas de Informação** na [UFPB](https://www.ufpb.br/)
+- 🐱‍💻 Programador full-stack e Cientista de dados em desenvolvimento Javascript, React, Java, Springboot, SQL, Python, Power BI
+- 💡 Interesses: Análise de dados, Machine Learning, Desenvolvimento full-stack
+- 🚀 Objetivo: Contribuir para projetos open source e soluções inovadoras
 
-<h2>About me</h2>
-<div>
-  <p>💻 Working as a researcher at LabGov</p>
-  <p>📚 Studying Information Systems at UFPB</p>
-</div>
-
-<h2>Techs and Tools</h2>
+<h2>🛠 Hard Skills</h2>
   <div align="center">
      <img src="https://skillicons.dev/icons?i=java,python,anaconda,html,css,js,react,git,mysql">
   </div>
 
-<h2>Contacts</h2>
+<h2>Contatos</h2>
 <div align="center">
   <a href="https://www.instagram.com/brun_souz4">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -28,22 +24,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-<!--
-**Walmir07/Walmir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <!--
 **BruninSouza/BruninSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
