@@ -8,9 +8,9 @@ Sou um estudante de Sistemas de Informação pela [UFPB](https://www.ufpb.br/) a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruninSouza&layout=compact&langs_count=8&theme=radical&title_color=00bfbf&icon_color=00bfbf&&border_radius=10" height="160" alt="languages graph"  />
 </div>
 
-<h2>🛠 Hard Skills</h2>
+<h2>🛠 Principais tecnologias</h2>
   <div align="center">
-     <img src="https://skillicons.dev/icons?i=java,python,anaconda,html,css,js,react,git,mysql">
+     <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,mysql">
   </div>
 
 ## 🚀 Meus Projetos em Destaque
